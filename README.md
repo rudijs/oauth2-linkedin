@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/rudijs/oauth2-linkedin.svg?branch=master)](https://travis-ci.org/rudijs/oauth2-linkedin)
 [![Coverage Status](https://coveralls.io/repos/rudijs/oauth2-linkedin/badge.svg?branch=master&service=github)](https://coveralls.io/github/rudijs/oauth2-linkedin?branch=master)
+[![Dependencies Status](https://david-dm.org/rudijs/oauth2-linkedin.svg)](https://david-dm.org/rudijs/oauth2-linkedin.svg)
 
 Serverside Oauth2 LinkedIn Signin using Node.js
 
@@ -9,7 +10,7 @@ Serverside Oauth2 LinkedIn Signin using Node.js
 
 Node.js oauth2 Facebook sign in module.
 
-This module is written in Typescript, uses Promises and the author's intended case use is with KoaJS.
+This module uses Promises and the author's intended case use is with KoaJS.
 
 ## API
 
