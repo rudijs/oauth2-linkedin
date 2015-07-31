@@ -1,7 +1,9 @@
-.git/
-.gitignore
-.idea/
-.jshintrc
-node_modules/
+.git
+.idea
+node_modules
 test/
+.gitignore
+gulpfile.js
+.jshintrc
+.travis.yml
 *spec.js

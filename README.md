@@ -1,5 +1,8 @@
 # oauth2-linkedin
 
+[![Build Status](https://travis-ci.org/rudijs/oauth2-linkedin.svg?branch=master)](https://travis-ci.org/rudijs/oauth2-linkedin)
+[![Coverage Status](https://coveralls.io/repos/rudijs/oauth2-linkedin/badge.svg?branch=master&service=github)](https://coveralls.io/github/rudijs/oauth2-linkedin?branch=master)
+
 Serverside Oauth2 LinkedIn Signin using Node.js
 
 ## Overview
